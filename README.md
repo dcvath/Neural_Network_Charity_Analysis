@@ -4,8 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis was to help Alphabet Soup’s foundation predict where to make investments. 
-used machine learning and neural networks to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. For this analysis, I was provided a CSV containing over 34,000 organizations that have received funding from Alphabet Soup over the years. Included within that dataset were a number of columns that captured metadata about each organization.
+The purpose of this analysis was to help Alphabet Soup’s foundation predict where to make investments. I used machine learning and neural networks to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. For this analysis, I was provided a CSV containing over 34,000 organizations that have received funding from Alphabet Soup over the years. Included within that dataset were a number of columns that captured metadata about each organization.
 
 
 ## Results
