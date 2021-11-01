@@ -60,5 +60,4 @@ There were two hidden layers. The first layer had 80 neurons and the second had 
 
  
 ## Summary
-Based on the analysis, 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Based on the analysis, none of the models created are accurate enough to share with the foundation team, as the best accuracy achieved was 64%. My recommendation is to move to a different machine learning model that isn't a neural network.
