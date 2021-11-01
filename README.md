@@ -23,7 +23,7 @@ Below, please find the results of the analysis:
   
   The "EIN" and "NAME" columns.
 
-### Compiling, Training, and Evaluating the Mode 
+### Compiling, Training, and Evaluating the Model 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 There were two hidden layers. The first layer had 80 neurons and the second had 30. The first and second hidden layers had the Relu activation function and the activation function for the output layer is Sigmoid.
