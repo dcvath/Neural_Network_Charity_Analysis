@@ -14,7 +14,7 @@ Below, please find the results of the analysis:
 ### Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
  
- The "IS_SUCCESSFUL" column. 
+  The "IS_SUCCESSFUL" column. 
 
 - What variable(s) are considered to be the features for your model?
   
@@ -33,7 +33,7 @@ There were two hidden layers. The first layer had 80 neurons and the second had 
 
 - Were you able to achieve the target model performance?
 
-  No, the model was unable t achieve the target model performance of 75% accuracy. The model achieved 63% accuracy.
+  No, the model was unable to achieve the target model performance of 75% accuracy. The model achieved 63% accuracy.
 
   <img width="767" alt="accurracymodel" src="https://user-images.githubusercontent.com/85654649/139745247-4d7a4790-5197-4a17-b96e-4c5e5af4887b.png">
 
