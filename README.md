@@ -14,15 +14,13 @@ Using bulleted lists and images to support your answers, address the following q
 
 ### Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
-
-
+  The "IS_SUCCESSFUL" column. 
 
 - What variable(s) are considered to be the features for your model?
-
+  Each of the the columns within the dataset are considered features, except for the "IS_SUCCESSFUL," "EIN," and "NAME" columns.
 
 - What variable(s) are neither targets nor features, and should be removed from the input data?
-
-
+  The "EIN" and "NAME" columns.
 
 ### Compiling, Training, and Evaluating the Mode 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
