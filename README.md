@@ -3,10 +3,8 @@
 ## Overview of Analysis
 
 ### Purpose
-.. 
 
-### Description of Analysis
-report on the performance of the deep learning model you created for AlphabetSoup.
+The purpose of this analysis was to help Alphabet Soup’s foundation predict where to make investments. We used machine learning and neural networks to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. For this analysis, we were provided a CSV containing over 34,000 organizations that have received funding from Alphabet Soup over the years. Included within that dataset were a number of columns that captured metadata about each organization.
 
 
 ## Results
