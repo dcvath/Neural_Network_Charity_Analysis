@@ -11,8 +11,6 @@ used machine learning and neural networks to help Beks create a binary classifie
 ## Results
 Below, please find the results of the analysis:
 
-Using bulleted lists and images to support your answers, address the following questions.
-
 ### Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
  
@@ -48,9 +46,14 @@ There were two hidden layers. The first layer had 80 neurons and the second had 
 
   <img width="798" alt="dropusecasecolumn" src="https://user-images.githubusercontent.com/85654649/139745752-2bfef14b-3e01-46f8-9a71-11739f3663ed.png">
 
-  Next, I tried to add neurons and additional hidden layers; however, this results in 
+  Next, I tried to add neurons and additional hidden layers. This improved the model slightly by increasing the accuracy to 64%.
   
-  
+  <img width="1039" alt="attempt2hiddenlayersneurons" src="https://user-images.githubusercontent.com/85654649/139747293-456ff964-a815-489d-adca-89976b9890cb.png">
+
+  <img width="788" alt="attempt2accuracy64" src="https://user-images.githubusercontent.com/85654649/139747309-746b0aff-1625-4964-b7cc-b9f007dd82cd.png">
+
+ Lastly, 
+ 
 ## Summary
 Based on the analysis, 
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
