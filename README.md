@@ -52,7 +52,12 @@ There were two hidden layers. The first layer had 80 neurons and the second had 
 
   <img width="788" alt="attempt2accuracy64" src="https://user-images.githubusercontent.com/85654649/139747309-746b0aff-1625-4964-b7cc-b9f007dd82cd.png">
 
- Lastly, 
+ Lastly, I tried changing the activation function of the output layer from Sigmoid to Tanh. The accuracy of the model went down to its lowest at 47%.
+ 
+ <img width="1041" alt="attempt3tahn" src="https://user-images.githubusercontent.com/85654649/139748307-c6df2363-8457-45ba-80a6-0125e6dcfe5a.png">
+
+ <img width="756" alt="attempt3accuracy47percent" src="https://user-images.githubusercontent.com/85654649/139748356-ed2e6d05-6023-433c-8e0b-b862d12c66a1.png">
+
  
 ## Summary
 Based on the analysis, 
